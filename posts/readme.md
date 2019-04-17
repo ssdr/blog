@@ -7,3 +7,7 @@
   
 * [2019](2019)
   * [0417 awk 文本替换](2019/0417-templater.md)
+
+
+
+**[不过瘾，还有这里 :blush:](https://github.com/ssdr/blog/issues)**
