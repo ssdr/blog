@@ -1,5 +1,5 @@
 > 要在一个模板文件中替换特定字符串为某个文件的内容。
-![template](../images/awk-templater-idea.svg)
+![template](../../images/awk-templater-idea.svg)
 ```awk
 #!/usr/bin/awk -f
 
