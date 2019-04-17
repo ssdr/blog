@@ -11,4 +11,4 @@
 
 
 
-* [:cat::heart::blush:](https://github.com/ssdr/blog/issues)
+* [issues blogs](https://github.com/ssdr/blog/issues)
