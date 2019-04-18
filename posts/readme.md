@@ -10,6 +10,7 @@
   * [0417 awk 文本替换](2019/0417-templater.md)
   * [0417 emoji 表情包](https://github.com/ssdr/blog/issues/2)
   * [0418 process substitution](https://github.com/ssdr/blog/issues/3)
+  * [0418 curl 测量http响应时间](2019/0418-curl.md)
 
 
 
