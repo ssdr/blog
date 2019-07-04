@@ -11,6 +11,7 @@
   * [0417 emoji 表情包](https://github.com/ssdr/blog/issues/2)
   * [0418 process substitution](https://github.com/ssdr/blog/issues/3)
   * [0418 curl 测量http响应时间](2019/0418-curl.md)
+  * [0704 博弈游戏](https://github.com/ssdr/blog/issues/4)
 
 
 
