@@ -17,4 +17,4 @@
   * [0905 全新开始:two:](https://github.com/ssdr/blog/issues/1)
   * [0905 全新开始:one:](2018/0905-beginning.md)
 
-*The End:cat:*
+*The End :cat:*
