@@ -6,6 +6,6 @@
 ---
 #### 还有这里 :cat:
 
-:hearts: [https://ssdr.github.io](https://ssdr.github.io)
+:hearts: [https://yanl.cc](https://yanl.cc)
 
 :spades: [Google Sites](https://sites.google.com/view/ssdr)
